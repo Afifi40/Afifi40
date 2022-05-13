@@ -1,5 +1,5 @@
 - Hi, I’m  Ahmed Afifi, Engineering Student.
-- I’m interested in Embedded Software development, QA and Test cases design, back end web/ios development
+- I’m interested in Embedded Software development, QA and Test-case design, back-end web/ios development
 - I’m currently learning Computer Engineering at Faculity of Helwan University
 - How to reach me:
 - LinkedIn : https://www.linkedin.com/in/ahmed-afifi-b5474a226/
